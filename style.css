@@ -68,6 +68,9 @@ ol{
 li{
     padding: 2px;
 }
+li::marker{
+    color: brown;
+}
 table{
     width: 100%;
     border-collapse: collapse;
